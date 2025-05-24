@@ -634,7 +634,7 @@ const env = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f4
         NEXT_PUBLIC_API_URL: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$zod$2f$lib$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["z"].string().url()
     },
     runtimeEnv: {
-        NEXT_PUBLIC_API_URL: ("TURBOPACK compile-time value", "http://localhost:4545")
+        NEXT_PUBLIC_API_URL: ("TURBOPACK compile-time value", "https://api.jeevic.com")
     }
 });
 if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
